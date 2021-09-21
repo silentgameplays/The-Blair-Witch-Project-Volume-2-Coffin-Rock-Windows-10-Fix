@@ -17,4 +17,16 @@ The Blair Witch Project Games Fix
 
 7. (Optional) The intro uses an old indeo codec to play the video using VLC Player go to this location C:\Program Files (x86)\HumanHead\Blair Witch II\video
 
+# It is also possible running all three games without dgvoodoo files:
+
+1. Make sure to turn off Geforce Experience before installig the game
+
+2. Set compatibility to Windows 98/ME 
+
+3. Change setting to run as admin
+
+4. Copy/paste only the nocturne.ini file into the game System folder
+
+5. Run the game
+
 Enjoy the classic!
