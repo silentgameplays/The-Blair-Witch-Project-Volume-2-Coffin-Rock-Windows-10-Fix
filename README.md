@@ -19,7 +19,7 @@ The Blair Witch Project Games Fix
 
 # It is also possible running all three games without dgvoodoo files:
 
-1. Make sure to turn off Geforce Experience before installig the game
+1. Make sure to turn off Geforce Experience before installing the game
 
 2. Set compatibility to Windows 98/ME 
 
