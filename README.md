@@ -3,8 +3,7 @@ The Blair Witch Project Games Fix
 
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
 
-1. Install The Blair Witch Project Volume 2 Coffin Rock using portable WinCDEMU with .bin file using this link: https://drive.google.com/drive/folders/1qh0izFE97Gormef9wkGyVxjV0odxIOR9?usp=sharing
-
+1. Install The Blair Witch Project Volume 2 Coffin Rock using portable WinCDEMU with .bin file using this link: https://ann.nl.tab.digital/s/Md8YiDysM2SKo9C
 2. Download/Copy/Paste all files from this preconfigured fix to the folder overwritting when necessary C:\Program Files (x86)\HumanHead\Blair Witch II
 
 3. Change Compatibility of the blairwitch2.exe to Windows XP SP 2>Run as Administrator
